@@ -6,7 +6,6 @@ from sqlalchemy import Column
 from sqlalchemy import String
 from sqlalchemy.orm import relationship
 
-
 class User(BaseModel, Base):
     """Represents a user for a MySQL database.
 
