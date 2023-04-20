@@ -1,7 +1,9 @@
-# AirBnB_clone_v2
-This is the console /command interpreter for the Holberton Airbnb clone project. The console can be used to store objects in and retrieve objects from a JSON.
+# 0x02. AirBnB clone - MySQL
 
-### Supported classes:
+## Description :house:
+In this project, we began to use MySQL database to store Create, Read, Update, and Delete information in the `AirBnB_clone` project.This is the console /command interpreter for the Holberton Airbnb clone project. The console can be used to store objects in and retrieve objects from a JSON.
+
+### Supported classes :pencil:
 * BaseModel
 * User
 * State
@@ -9,7 +11,7 @@ This is the console /command interpreter for the Holberton Airbnb clone project.
 * Amenity
 * Place
 * Review
-### Commands:
+### Commands :fire:
 * create - create an object
 * show - show an object (based on id)
 * destroy - destroy an object
@@ -37,4 +39,4 @@ quit or EOF
 help or help <command> Ex: help or help quit
 
 Additionally, the console supports <class name>.<command>(<parameters>) syntax. Ex: City.show(my_city_id)
-git@github.com:Samuel-Makinde/AirBnB_clone_v2.git
+git@github.com://Samuel-Makinde/AirBnB_clone_v2.git
