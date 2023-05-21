@@ -24,20 +24,20 @@ The app can be accessed at `0.0.0.0:5000/hbnb`.
 
 Screenshots:
 <p align="center">
-  <img src="https://github.com/betiniakarandut/AirBnB_clone/blob/main/assets/hbnb_logo.png"
+  <img src="https://github.com/betiniakarandut/AirBnB_clone_v2/blob/master/assets/hbnb_logo.png"
        alt="HolbertonBnB logo">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/betiniakarandut/AirBnB_clone/blob/main/assets/hbnb_logo.png"
+  <img src="https://github.com/betiniakarandut/AirBnB_clone_v2/blob/master/assets/hbnb_logo.png"
        alt="HolbertonBnB logo">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/betiniakarandut/AirBnB_clone_v2/blob/master/assets/hbnb_screenshot_2.png"
+  <img src="https://github.com/betiniakarandut/AirBnB_clone_v2/blob/master/assets/hbnb_2.png"
        alt="HolbertonBnB logo">
 </p>
