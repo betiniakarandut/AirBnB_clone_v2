@@ -31,7 +31,7 @@ Screenshots:
 ---
 
 <p align="center">
-  <img src="https://github.com/betiniakarandut/AirBnB_clone_v2/blob/master/assets/hbnb_logo.png"
+  <img src="https://github.com/betiniakarandut/AirBnB_clone_v2/blob/master/assets/hbnb_stack.png"
        alt="HolbertonBnB logo">
 </p>
 
